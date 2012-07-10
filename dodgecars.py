@@ -1,3 +1,27 @@
+############################################################################################
+###                                                                                      ###
+### PyGame with three lanes of cars coming at you and you have to dodge them! Have fun!  ###
+###                                                                                      ###
+### Author: SUHAS SG                                                                     ###
+### jargnar@gmail.com                                                                    ###
+###                                                                                      ###
+### suhased.wordpress.com                                                                ###
+### twitter: @jargnar                                                                    ### 
+### facebook: facebook.com/jargnar                                                       ###
+###                                                                                      ###
+###                                                                                      ###
+### Disclaimer: The kelvinized font and the small car pictures                           ###
+### is not mine and I found it on the internet.                                          ###
+### All the other images are mine.                                                       ###
+###                                                                                      ###
+### Do Enjoy the game!                                                                   ###
+### You need to have Python and PyGame installed to run it.                              ###
+###                                                                                      ###
+### Run it by typing "python dodgecars.py" in the terminal                               ###
+###                                                                                      ###
+###                                                                                      ###
+############################################################################################
+
 import pygame,sys,random
 from collections import deque
 
