@@ -5,10 +5,7 @@
 ### Author: SUHAS SG                                                                     ###
 ### jargnar@gmail.com                                                                    ###
 ###                                                                                      ###
-### suhased.wordpress.com                                                                ###
-### twitter: @jargnar                                                                    ### 
-### facebook: facebook.com/jargnar                                                       ###
-###                                                                                      ###
+### twitter: @jargnar                                                                    ###
 ###                                                                                      ###
 ### Disclaimer: The kelvinized font and the small car pictures                           ###
 ### is not mine and I found it on the internet.                                          ###
