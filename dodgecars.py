@@ -1,23 +1,24 @@
-##########################################################################
+############################################################################################
 ###                                                                                      ###
 ### PyGame with three lanes of cars coming at you and you have to dodge them! Have fun!  ###
 ###                                                                                      ###
 ### Author: SUHAS SG                                                                     ###
-### jargnar@gmail.com                                                                    ###
-###                                                                                      ###
+### Email:jargnar@gmail.com                                                              ###
 ### twitter: @jargnar                                                                    ###
 ###                                                                                      ###
-### Disclaimer: The kelvinized font and the small car pictures                           ###
-### is not mine and I found it on the internet.                                          ###
-### All the other images are mine.                                                       ###
-###                                                                                      ###
 ### Do Enjoy the game!                                                                   ###
-### You need to have Python and PyGame installed to run it.                              ###
-###                                                                                      ###
+### You need to have Python and PyGame installed to run it.                              ###                                                                                
 ### Run it by typing "python dodgecars.py" in the terminal                               ###
 ###                                                                                      ###
+### This program is free software: you can redistribute it and/or modify                 ### 
+### it under the terms of the GNU General Public License as published by                 ### 
+### the Free Software Foundation, either version 3 of the License, or                    ### 
+### (at your option) any later version.                                                  ###
 ###                                                                                      ###
-##########################################################################
+### You should have received a copy of the GNU General Public License                    ### 
+### along with this program.  If not, see <http://www.gnu.org/licenses/>.                ###
+###                                                                                      ###                                                                                                                                                                                                                                                                     
+############################################################################################
 
 import pygame
 import sys
